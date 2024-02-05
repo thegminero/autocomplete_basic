@@ -1,0 +1,20 @@
+{
+    "name": "algolia-autocomplete-example",
+    "version": "1.0.0",
+    "description": "Algolia Autocomplete Example",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "dependencies": {
+        "@algolia/autocomplete-js": "1.15.1",
+        "@algolia/autocomplete-plugin-query-suggestions": "1.15.1",
+        "@algolia/autocomplete-plugin-recent-searches": "1.15.1",
+        "@algolia/autocomplete-theme-classic": "1.15.1",
+        "@algolia/client-search": "4.16.0",
+        "algoliasearch": "4.16.0",
+        "instantsearch.js": "4.53.0",
+        "live-server": "^1.2.1",
+        "parcel": "^2.11.0"
+    }
+}
